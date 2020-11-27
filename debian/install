@@ -1,0 +1,3 @@
+modules.d/aarch64-laptops.modules usr/share/initramfs-tools/modules.d/
+grub.d/aarch64-laptops.cfg etc/default/grub.d/
+db/*.db usr/share/flash-kernel/db/

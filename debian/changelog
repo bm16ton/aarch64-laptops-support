@@ -1,0 +1,78 @@
+aarch64-laptops-support (11-0~201907181041~ubuntu20.04.1) eoan; urgency=low
+
+  * Update dtb file name
+
+ -- Ben Maddocks <bm16ton@gmail.com>  Fri, 27 Nov 2020 16:51:29 +0000
+
+aarch64-laptops-support (11-0~201907181041~ubuntu19.10.1) eoan; urgency=low
+
+  * Auto build.
+
+ -- Dimitri John Ledkov <launchpad@surgut.co.uk>  Sun, 21 Jul 2019 16:51:29 +0000
+
+aarch64-laptops-support (11) unstable; urgency=medium
+
+  * Add hid-sensor-hub blacklist.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Thu, 18 Jul 2019 11:41:03 +0100
+
+aarch64-laptops-support (10) unstable; urgency=medium
+
+  * Add tasks to the package.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Thu, 18 Jul 2019 11:04:25 +0100
+
+aarch64-laptops-support (9) unstable; urgency=medium
+
+  * Drop debugging kernel cmdline parameters.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Thu, 06 Jun 2019 10:32:26 +0100
+
+aarch64-laptops-support (8) unstable; urgency=medium
+
+  * Disable nvram updates for grub & use extra removable paths in
+    grub-installer, debian and ubuntu grub.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Thu, 06 Jun 2019 10:00:37 +0100
+
+aarch64-laptops-support (7) unstable; urgency=medium
+
+  * Support installing support package without grub.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Fri, 31 May 2019 12:42:28 +0100
+
+aarch64-laptops-support (6) unstable; urgency=medium
+
+  * Add flash-kernel dependency.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Fri, 31 May 2019 11:23:28 +0100
+
+aarch64-laptops-support (5) unstable; urgency=medium
+
+  * Add Yoga C630 db entry.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 22 May 2019 19:34:15 +0100
+
+aarch64-laptops-support (4) unstable; urgency=medium
+
+  * Add flash-kernel devicetree integration.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 22 May 2019 19:14:04 +0100
+
+aarch64-laptops-support (3) unstable; urgency=medium
+
+  * Add postinst to set no-nvram in grub.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Wed, 10 Apr 2019 01:21:35 +0100
+
+aarch64-laptops-support (2) unstable; urgency=medium
+
+  * Add grub default kernel cmdline snippet.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Tue, 09 Apr 2019 22:21:05 +0100
+
+aarch64-laptops-support (1) unstable; urgency=medium
+
+  * Initial Release.
+
+ -- Dimitri John Ledkov <xnox@ubuntu.com>  Thu, 21 Mar 2019 14:22:39 +0000

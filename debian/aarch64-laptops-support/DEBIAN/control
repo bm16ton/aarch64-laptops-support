@@ -1,0 +1,11 @@
+Package: aarch64-laptops-support
+Version: 11-0~201907181041~ubuntu20.04.1
+Architecture: all
+Maintainer: Dimitri John Ledkov <xnox@ubuntu.com>
+Installed-Size: 21
+Depends: flash-kernel
+Section: admin
+Priority: optional
+Description: aarch64 laptops support package
+ lots of hacks and miscelanious default config changes
+Task: ubuntu-live, ubuntu-desktop, ubuntu-desktop-minimal

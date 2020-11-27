@@ -1,0 +1,2 @@
+# git-build-recipe format 0.4 deb-version {debupstream}-0~201907181041
+lp:~xnox/+git/aarch64-laptops-support git-commit:1d4ccd14329cc03321624bee2928a4357078b7e7

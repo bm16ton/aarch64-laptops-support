@@ -1,0 +1,12 @@
+#!/bin/sh
+set -e
+
+case "$1" in
+	configure)
+		echo grub-efi-arm64 grub2/update_nvram boolean false | debconf-set-selections -v
+		echo grub-efi-arm64 grub2/force_efi_extra_removable boolean true | debconf-set-selections -v
+		echo ubiquity grub-installer/force-efi-extra-removable boolean true | debconf-set-selections -v
+		;;
+esac
+
+##DEBHELPER##

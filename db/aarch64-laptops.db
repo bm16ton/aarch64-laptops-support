@@ -1,0 +1,15 @@
+Machine: Qualcomm Technologies, Inc. MSM8998 v1 Asus TP370QL
+Kernel-Flavors: arm64
+DTB-Id: qcom/laptop-asus-tp370ql.dtb
+
+Machine: Qualcomm Technologies, Inc. MSM8998 v1 Lenovo Mixx 630
+Kernel-Flavors: arm64
+DTB-Id: qcom/laptop-lenovo-mixx-630.dtb
+
+Machine: Qualcomm Technologies, Inc. MSM8998 v1 HP Envy X2
+Kernel-Flavors: arm64
+DTB-Id: qcom/laptop-hp-envy-x2.dtb
+
+Machine: Lenovo Yoga C630
+Kernel-Flavors: arm64
+DTB-Id: qcom/sdm850-lenovo-yoga-c630.dtb

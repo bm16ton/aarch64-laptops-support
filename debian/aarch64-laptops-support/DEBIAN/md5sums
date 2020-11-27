@@ -1,0 +1,4 @@
+32edc9e0837c29acae2b98305e612362  usr/share/doc/aarch64-laptops-support/changelog.Debian.gz
+e527e6fface3edb4ab5992db3896fd60  usr/share/doc/aarch64-laptops-support/copyright
+f24fc5c9481c6d37222a356c4d0abadb  usr/share/flash-kernel/db/aarch64-laptops.db
+d03a5d800b413947c643e82d3b33914d  usr/share/initramfs-tools/modules.d/aarch64-laptops.modules

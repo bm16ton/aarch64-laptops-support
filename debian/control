@@ -1,0 +1,13 @@
+Source: aarch64-laptops-support
+Section: admin
+Priority: optional
+Maintainer: Dimitri John Ledkov <xnox@ubuntu.com>
+Build-Depends: debhelper (>= 11)
+Standards-Version: 4.1.3
+
+Package: aarch64-laptops-support
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, flash-kernel
+Description: aarch64 laptops support package
+ lots of hacks and miscelanious default config changes
+XB-Task: ubuntu-live, ubuntu-desktop, ubuntu-desktop-minimal
